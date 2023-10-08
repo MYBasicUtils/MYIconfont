@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MYIconfont (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MYIconfont (from `../`)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MYIconfont:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MYIconfont: a328b874d9605267828243ec224fe56949dc90d4
+
+PODFILE CHECKSUM: 92389cbc682898bdbe5efb78d4658836e379d2fb
+
+COCOAPODS: 1.8.4

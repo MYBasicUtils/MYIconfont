@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MYIconfont_Example' do
+  pod 'MYIconfont', :path => '../'
+
+  target 'MYIconfont_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

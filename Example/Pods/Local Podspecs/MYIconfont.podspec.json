@@ -1,0 +1,22 @@
+{
+  "name": "MYIconfont",
+  "version": "0.1.0",
+  "summary": "A short description of MYIconfont.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WenMingYan/MYIconfont",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WenMingYan": "wenmy@tuya.com~"
+  },
+  "source": {
+    "git": "https://github.com/WenMingYan/MYIconfont.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MYIconfont/Classes/**/*"
+}

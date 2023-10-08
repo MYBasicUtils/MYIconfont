@@ -1,0 +1,6 @@
+framework module MYIconfont {
+  umbrella header "MYIconfont-umbrella.h"
+
+  export *
+  module * { export * }
+}
